@@ -14,7 +14,7 @@ const SocialLinks = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/prahlad-kamat-938652287?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
 
       style: "rounded-tr-md",
     },
