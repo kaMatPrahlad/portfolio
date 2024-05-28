@@ -28,8 +28,8 @@ const About = () => {
 
         <br />
         <p>
-          Proficient in <b>JavaScript & Nextjs </b> Specializing in <b>React, Tailwind, Bootstrap, HTML, Css .</b>
-           Currently focusing on <b>redux</b> and <b>Node Js</b>
+          Proficient in <b>JavaScript & Typescript </b> Specializing in <b>React, Tailwind, Bootstrap, HTML, Css, Scss .</b>
+           Currently focusing on <b>redux</b> and <b>Node Js.</b>
     
         </p>
       </div>

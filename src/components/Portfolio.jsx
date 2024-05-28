@@ -5,6 +5,7 @@ import twitter from "../assets/portfolio/twitter.png";
 import zoom from "../assets/portfolio/zoom.png";
 import instagram from "../assets/portfolio/instagram.png";
 import Travel from "../assets/portfolio/Travel.png";
+// import Travel from "../assets/portfolio/Travel.png";
 
 const Portfolio = () => {
   //  Link for demo
