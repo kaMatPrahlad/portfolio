@@ -1,11 +1,10 @@
 import React from "react";
 import Budget from "../assets/portfolio/BudgetTracker.png";
-import WhatsFood from "../assets/portfolio/WhatsFood.png";
+import appleweb from "../assets/portfolio/appleweb.png";
 import twitter from "../assets/portfolio/twitter.png";
 import zoom from "../assets/portfolio/zoom.png";
 import instagram from "../assets/portfolio/instagram.png";
 import Travel from "../assets/portfolio/Travel.png";
-// import Travel from "../assets/portfolio/Travel.png";
 
 const Portfolio = () => {
   //  Link for demo
@@ -36,16 +35,16 @@ const Portfolio = () => {
     {
       id: 4,
       src: instagram,
-      title: "Social media App",
+      title: "Social Media app",
       link: "https://github.com/kaMatPrahlad/Instagram/deployments/Production",
       href: "https://github.com/kaMatPrahlad/Instagram",
     },
     {
       id: 5,
-      src: WhatsFood,
-      title: "Food Ordering App",
-      link: "https://github.com/kaMatPrahlad/Flavoro/deployments/Production",
-      href: "https://github.com/kaMatPrahlad/Flavoro",
+      src: appleweb,
+      title: "Apple Website",
+      link: "https://apple-website-gsap.vercel.app/",
+      href: "https://github.com/kaMatPrahlad/Gsap-Animation",
     },
     {
       id: 6,
