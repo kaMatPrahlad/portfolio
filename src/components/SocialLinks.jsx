@@ -47,7 +47,7 @@ const SocialLinks = () => {
         </>
       ),
       //Resume
-      href: "/resume.pdf",
+      href: "/Resume.pdf",
       style: "rounded-br-md",
       download: true,
     },
