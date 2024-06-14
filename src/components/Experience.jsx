@@ -4,7 +4,7 @@ import html from "../assets/html.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
+import typescript from "../assets/typescript.png";
 import git from "../assets/git (1).png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
@@ -22,7 +22,7 @@ const Experience = () => {
       id: 2,
       src: css,
       title: "Css",
-      style: "shadow-blue-500",
+      style: "shadow-green-500",
     },
 
     {
@@ -45,9 +45,9 @@ const Experience = () => {
     },
     {
       id: 6,
-      src: nextjs,
-      title: "Next Js",
-      style: "shadow-white",
+      src: typescript,
+      title: "TypeScript",
+      style: "shadow-blue-500",
     },
     {
       id: 7,
